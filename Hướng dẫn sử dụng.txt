@@ -1,0 +1,3 @@
+Hướng dẫn chạy đồ án
+	Bước 1 : restore data trong thư mục data (SQL 2019)
+	Bước 2 : khai báo lại kết nối tới data trong file web.config trong thư mục DoAn_LapTrinhWeb
